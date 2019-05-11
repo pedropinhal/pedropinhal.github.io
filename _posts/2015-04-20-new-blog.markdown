@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My new blog
-date:   2015/04/20
+date: 2015/04/20
 comment: true
 ---
 
