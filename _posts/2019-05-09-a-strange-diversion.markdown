@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A strange diversion!"
+title:  "TDD - Test-Driven-Drivel"
 date:   2019-05-09
 categories: [software, engineering]
 comments: true
@@ -16,4 +16,4 @@ As I eek ever closer toward pragmatism I'm seeing less and less utility in tests
 
 `Aside:` I'm a big fan of testing behaviour over implementation. There are [numerous articles](https://www.google.com/search?q=testing+implementation+and+behaviour) discussing the merits of both. Essentially you treat your entity as a black box and assert the inputs vs outputs (and thus behaviour) of the entity, without much care of the internal implementation details. You are then free to refactor the implementation details without having to refactor your tests in step.
 
-Summing up, I'd rather have a handful of really well thought-out, easy to read tests than a smattering of tests in the endeavour to achieve 100% test coverage.
+Summing up, I think we as engineers need to take a step back and consider the bigger picture. I'd rather have a handful of really well thought-out, easy to read tests than a smattering of tests in the endeavour to achieve 100% test coverage.
